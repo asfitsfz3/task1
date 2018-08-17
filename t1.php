@@ -1,5 +1,10 @@
 <?php
 
-if (1==1) {
-    echo "123";
-}
+$name = "Сергей";
+$age  = "28";
+
+echo "Меня зовут: ".$name;
+echo PHP_EOL;
+echo "Мне: ".$age." лет";
+echo PHP_EOL;
+echo "\"!|\\/'\"\\";
