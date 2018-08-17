@@ -1,3 +1,4 @@
+<pre>
 <?php
 $bmw = array(
     "model" => "X5",

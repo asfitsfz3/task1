@@ -1,3 +1,4 @@
+<pre>
 <?php
 const TOTAL_PICTURE_COUNT   = 80;
 const FELTPEN_PICTURE_COUNT = 23;
